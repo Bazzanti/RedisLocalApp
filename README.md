@@ -1,0 +1,3 @@
+# RedisLocalApp
+
+Redis Test application
